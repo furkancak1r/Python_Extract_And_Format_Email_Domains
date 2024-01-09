@@ -1,0 +1,2 @@
+# Python_Extract_And_Format_Email_Domains
+ This Python script uses the openpyxl library to process an Excel file. It extracts the domain part of email addresses from a specified range in column 'J', converts these domains to lowercase, and writes them into column 'L'. The extraction considers domains ending with either .com or .com.tr. The script operates on the 'INKOOL' sheet of a specific workbook and saves the changes back to the file.
